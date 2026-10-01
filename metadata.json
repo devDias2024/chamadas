@@ -1,0 +1,6 @@
+{
+  "name": "Rota Pro",
+  "description": "Calculadora de lucro real e semáforo inteligente de corridas para motoristas de Uber, 99 e inDrive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
